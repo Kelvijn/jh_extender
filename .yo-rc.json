@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "kelvijn",
+      "authorName": "Calvin Swinnen",
+      "authorEmail": "calvin.swinnen@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}

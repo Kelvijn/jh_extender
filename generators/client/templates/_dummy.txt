@@ -1,0 +1,2 @@
+hello side-by-side-extender!
+It's dummy.txt
